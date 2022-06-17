@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bcputility",
+    "oncran": true
+  },
+  {
+    "package": "fitur",
+    "oncran": true
+  },
+  {
+    "package": "leaflegend",
+    "oncran": true
+  }
+]

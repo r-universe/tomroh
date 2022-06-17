@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bcputility"]
+	path = bcputility
+	url = https://github.com/tomroh/bcputility
+	shallow = true
+	registered = true
+[submodule "fitur"]
+	path = fitur
+	url = https://github.com/tomroh/fitur
+	shallow = true
+	registered = true
+[submodule "leaflegend"]
+	path = leaflegend
+	url = https://github.com/tomroh/leaflegend
+	shallow = true
+	registered = true
