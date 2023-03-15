@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "leaflegend",
+    "package": "fitur",
     "oncran": true
   },
   {
-    "package": "fitur",
+    "package": "leaflegend",
     "oncran": true
   }
 ]
